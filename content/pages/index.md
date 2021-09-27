@@ -5,7 +5,7 @@ sections:
   - type: HeroSection
     elementId: homepage-hero-1
     variant: variant-a
-    colors: colors-h
+    colors: colors-c
     width: full
     height: tall
     bottomGap: none
