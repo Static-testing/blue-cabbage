@@ -30,7 +30,7 @@ sections:
         elementId: hero-main-button
         showIcon: true
         iconPosition: right
-        icon: arrowRight
+        icon: facebook
       - type: Button
         label: Learn More
         url: 'https://www.stackbit.com/'
